@@ -8,10 +8,8 @@ This repository covers essential OS concepts such as **process management**, **s
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Language-C-blue?style=flat-square" alt="Language Badge">
-  <img src="https://img.shields.io/badge/OS-Fedora%20Linux-294172?style=flat-square&logo=fedora&logoColor=white" alt="Fedora Badge">
-  <img src="https://img.shields.io/github/last-commit/YOUR_USERNAME/CS23431-Operating-Systems?style=flat-square" alt="Last Commit Badge">
-  <img src="https://img.shields.io/github/stars/YOUR_USERNAME/CS23431-Operating-Systems?style=flat-square" alt="Stars Badge">
+  <img src="https://img.shields.io/badge/Language-C-blue?style=flat-square" alt="Language Badge">&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/OS-Fedora%20Linux-294172?style=flat-square&logo=fedora&logoColor=white" alt="Fedora Badge">&nbsp;&nbsp;
 </p>
 
 ---
